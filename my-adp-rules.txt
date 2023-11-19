@@ -1,0 +1,11 @@
+zhujiceping.com##.orbui.orbui-site.orbui-site-01
+zhujiceping.com##.textwidget.custom-html-widget
+zhujiceping.com##.item
+zhujiceping.com##.mo-topics
+zhujiceping.com##.fcode
+vpsxxs.com###sidebar
+vpsxxs.com##.widget-area
+vpsxxs.com##.site-info
+vpsxxs.com###links
+||vpsxxs.com/ad/*.jpg
+||vpsxxs.com/ad/*.png
