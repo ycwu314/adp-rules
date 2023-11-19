@@ -10,3 +10,13 @@ vpsxxs.com##.site-info
 vpsxxs.com###links
 ||vpsxxs.com/ad/*.jpg
 ||vpsxxs.com/ad/*.png
+vpsxb.net##.git_banner_inner
+vpsxb.net###footbar
+vpsxb.net##.footer-inner
+vpsxb.net##.g-logo.pull-center
+vpsxb.net##.widget.git_tag
+maobuni.com###footer
+||maobuni.com/wp-content/uploads/2022/07/bottom120090.png
+maobuni.com##.widget_text.widget.widget_custom_html
+maobuni.com##.puock-text.p-block.t-md.ad-global-top
+maobuni.com##.puock-text.p-block.t-md.ad-page-top
