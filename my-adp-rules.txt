@@ -20,3 +20,6 @@ maobuni.com###footer
 maobuni.com##.widget_text.widget.widget_custom_html
 maobuni.com##.puock-text.p-block.t-md.ad-global-top
 maobuni.com##.puock-text.p-block.t-md.ad-page-top
+pianyivps.com##.sidebar
+pianyivps.com##.topbar
+pianyivps.com##div[class*="container"]
