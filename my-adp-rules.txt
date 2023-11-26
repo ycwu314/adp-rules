@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+
 zhujiceping.com##.orbui.orbui-site.orbui-site-01
 zhujiceping.com##.textwidget.custom-html-widget
 zhujiceping.com##.item
@@ -23,3 +24,19 @@ maobuni.com##.puock-text.p-block.t-md.ad-page-top
 pianyivps.com##.sidebar
 pianyivps.com##.topbar
 pianyivps.com##div[class*="container"]
+
+
+sohu.com###right-side-bar
+sohu.com##.sidebar.right
+sohu.com###articleAllsee
+sohu.com##.article-allsee.clear
+sohu.com##.bottom-relate-wrap.clear.type-3
+sohu.com###mpbox
+sohu.com##.news-box.clear
+sohu.com##.title
+sohu.com##.statement
+sohu.com##.more-load
+sohu.com###main-news
+sohu.com##.news-list.clear
+sohu.com##.backword
+sohu.com##.column.left
