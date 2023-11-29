@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 
+zhujiceping.com##.more
 zhujiceping.com##.orbui.orbui-site.orbui-site-01
 zhujiceping.com##.textwidget.custom-html-widget
 zhujiceping.com##.item
@@ -16,6 +17,7 @@ vpsxb.net###footbar
 vpsxb.net##.footer-inner
 vpsxb.net##.g-logo.pull-center
 vpsxb.net##.widget.git_tag
+vpsxb.net##.sidebar
 maobuni.com###footer
 ||maobuni.com/wp-content/uploads/2022/07/bottom120090.png
 maobuni.com##.widget_text.widget.widget_custom_html
@@ -24,7 +26,6 @@ maobuni.com##.puock-text.p-block.t-md.ad-page-top
 pianyivps.com##.sidebar
 pianyivps.com##.topbar
 pianyivps.com##div[class*="container"]
-
 
 sohu.com###right-side-bar
 sohu.com##.sidebar.right
