@@ -56,5 +56,10 @@ new.qq.com###RIGHT
 new.qq.com##.RIGHT
 
 
+cloud.tencent.com##.mod-article-content.recommend
+cloud.tencent.com##.cdc-footer__main
+cloud.tencent.com##.cdc-footer__recommend
+cloud.tencent.com##.cdc-suspend-pill__inner
+
 
 
