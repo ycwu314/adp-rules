@@ -67,5 +67,20 @@ cloud.tencent.com##.mod-sticky-act.is-sticky
 cloud.tencent.com##.mod-sticky-act
 
 
+36kr.com##.kr-plugin-comment
+36kr.com##.article-right-container
+36kr.com##.thumb-up-box
+36kr.com##.footer-content
+36kr.com##.article-footer-txt
+36kr.com##.navbar-inner-box
+36kr.com##.article-footer-txt
+36kr.com##.navbar-wrapper
+36kr.com##.i-want-contribution
+36kr.com##.seek-report
+36kr.com##.station-business
+36kr.com##.feedBack
+36kr.com##.phone
+36kr.com##.assit-wrapper.undefined
+
 
 
