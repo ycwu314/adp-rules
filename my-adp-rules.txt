@@ -41,7 +41,8 @@ sohu.com###main-news
 sohu.com##.news-list.clear
 sohu.com##.backword
 sohu.com##.column.left
-
+sohu.com###float-btn
+sohu.com##.float-links
 
 new.qq.com##.recommend-con
 new.qq.com###fix_wrap
@@ -56,16 +57,15 @@ new.qq.com###RIGHT
 new.qq.com##.RIGHT
 
 
-cloud.tencent.com##.mod-article-content.recommend
 cloud.tencent.com##.cdc-footer__main
-cloud.tencent.com##.mod-sticky-act.is-sticky
 cloud.tencent.com##.cdc-footer__copyright
 cloud.tencent.com##.cdc-directory__inner
-cloud.tencent.com##.mod-sticky-act
-
-
 cloud.tencent.com##.cdc-footer__recommend
 cloud.tencent.com##.cdc-suspend-pill__inner
+cloud.tencent.com##.mod-article-content.recommend
+cloud.tencent.com##.mod-sticky-act.is-sticky
+cloud.tencent.com##.mod-sticky-act
+
 
 
 
