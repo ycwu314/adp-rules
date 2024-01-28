@@ -83,4 +83,9 @@ cloud.tencent.com##.mod-sticky-act
 36kr.com##.assit-wrapper.undefined
 
 
+thepaper.cn##.index_content___Uhtm
+thepaper.cn##.index_wrapper__jYtRh
+thepaper.cn##.ant-comment-inner
+thepaper.cn###commentWrapper
+
 
