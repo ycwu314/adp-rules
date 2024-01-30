@@ -55,7 +55,7 @@ new.qq.com##.article-interation
 new.qq.com##.qqcom-floatbutton
 new.qq.com###RIGHT
 new.qq.com##.RIGHT
-
+new.qq.com##.topNav-flex
 
 cloud.tencent.com##.cdc-footer__main
 cloud.tencent.com##.cdc-footer__copyright
