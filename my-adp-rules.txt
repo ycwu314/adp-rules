@@ -88,4 +88,12 @@ thepaper.cn##.index_wrapper__jYtRh
 thepaper.cn##.ant-comment-inner
 thepaper.cn###commentWrapper
 
-
+163.com##.post_top
+163.com##.post_side_mod.js-cnshow
+163.com##.post_side_mod
+163.com##.post_statement
+163.com###tieArea
+163.com##.tie-area.tie-ui-2020
+163.com##.post_recommend
+163.com##.post_next
+163.com##.post_recommends_titles
