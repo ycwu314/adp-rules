@@ -97,3 +97,6 @@ thepaper.cn###commentWrapper
 163.com##.post_recommend
 163.com##.post_next
 163.com##.post_recommends_titles
+163.com##.post_crumb
+163.com##.post_info
+163.com##.N-nav-bottom
