@@ -100,3 +100,7 @@ thepaper.cn###commentWrapper
 163.com##.post_crumb
 163.com##.post_info
 163.com##.N-nav-bottom
+163.com##.ntes-nav-main.clearfix
+163.com###js_N_nav
+163.com##.ntes-nav
+
