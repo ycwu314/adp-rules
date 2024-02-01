@@ -126,4 +126,7 @@ m.huxiu.com##.article-introduce-info.js-article-introduce-info
 m.huxiu.com##.recommend-about-wrap
 m.huxiu.com##footer[style="display: block;"]
 m.huxiu.com##.hot-so-wrap.c30
-
+||static.huxiucdn.com/m/image/bg.png
+m.huxiu.com##.article-author-box
+m.huxiu.com##.title.detail-rec-title
+m.huxiu.com##.m-article-time
