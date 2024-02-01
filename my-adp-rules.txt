@@ -104,3 +104,15 @@ thepaper.cn###commentWrapper
 163.com###js_N_nav
 163.com##.ntes-nav
 
+
+huxiu.com##.comment.article__comment
+huxiu.com###js-default-footer
+huxiu.com##.default-footer.js-default-footer
+huxiu.com##.article__reprinted-center
+huxiu.com##.reward-wrap__article
+huxiu.com##.icons-wrap
+huxiu.com###header-nav
+huxiu.com##.nav-default
+! 封面图
+||img.huxiucdn.com/article/cover*
+
