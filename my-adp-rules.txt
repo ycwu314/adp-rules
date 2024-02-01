@@ -115,4 +115,15 @@ huxiu.com###header-nav
 huxiu.com##.nav-default
 ! 封面图
 ||img.huxiucdn.com/article/cover*
+m.huxiu.com###qr_code_pc
+m.huxiu.com##.qr_code_pc
+m.huxiu.com###guide-box
+m.huxiu.com##.guide-wrap.bgW.js-top-fixed
+m.huxiu.com##.top-bar
+m.huxiu.com##.bottom-open-app-btn.js-bottom-open-app-btn.js-top-guide.js-content-open-app.js-click-log-ele.js-click-log-href-sign
+m.huxiu.com##.neirong-shouquan
+m.huxiu.com##.article-introduce-info.js-article-introduce-info
+m.huxiu.com##.recommend-about-wrap
+m.huxiu.com##footer[style="display: block;"]
+m.huxiu.com##.hot-so-wrap.c30
 
