@@ -27,6 +27,7 @@ pianyivps.com##.sidebar
 pianyivps.com##.topbar
 pianyivps.com##div[class*="container"]
 
+
 sohu.com###right-side-bar
 sohu.com##.sidebar.right
 sohu.com###articleAllsee
@@ -43,6 +44,10 @@ sohu.com##.backword
 sohu.com##.column.left
 sohu.com###float-btn
 sohu.com##.float-links
+sohu.com##.head-container
+sohu.com###main-header
+sohu.com##.error-head
+
 
 new.qq.com##.recommend-con
 new.qq.com###fix_wrap
@@ -87,6 +92,15 @@ thepaper.cn##.index_content___Uhtm
 thepaper.cn##.index_wrapper__jYtRh
 thepaper.cn##.ant-comment-inner
 thepaper.cn###commentWrapper
+m.thepaper.cn##.header_header_flex__Y1Inn
+m.thepaper.cn###wap_header
+m.thepaper.cn##.header_header__5RcxZ
+m.thepaper.cn##.index_top_ad_articleNo__JLoBi
+m.thepaper.cn###footer
+m.thepaper.cn##.index_footer__h8AcY
+m.thepaper.cn##.index_wraper__h_AK6
+m.thepaper.cn##div[style="margin-top: 0.8rem;"]
+
 
 163.com##.post_top
 163.com##.post_side_mod.js-cnshow
