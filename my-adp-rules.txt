@@ -86,6 +86,9 @@ cloud.tencent.com##.mod-sticky-act
 36kr.com##.feedBack
 36kr.com##.phone
 36kr.com##.assit-wrapper.undefined
+36kr.com##.kr-sider
+36kr.com##.kr-header-content
+36kr.com##.relate-articles-inner-wrapper
 
 
 thepaper.cn##.index_content___Uhtm
