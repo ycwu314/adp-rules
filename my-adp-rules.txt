@@ -147,3 +147,13 @@ m.huxiu.com##.hot-so-wrap.c30
 m.huxiu.com##.article-author-box
 m.huxiu.com##.title.detail-rec-title
 m.huxiu.com##.m-article-time
+
+
+xueqiu.com##.footer__ft
+xueqiu.com##.footer__hd
+||assets.imedao.com/ugc/images/widget/download-app/*.png
+xueqiu.com##.widget-interaction_container
+xueqiu.com##.private__domain__association__ad
+xueqiu.com##.lite-editor.lite-editor--comment
+
+
