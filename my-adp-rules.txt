@@ -70,7 +70,10 @@ cloud.tencent.com##.cdc-suspend-pill__inner
 cloud.tencent.com##.mod-article-content.recommend
 cloud.tencent.com##.mod-sticky-act.is-sticky
 cloud.tencent.com##.mod-sticky-act
-
+cloud.tencent.com##.mod-article-content.is-pill-hidden
+cloud.tencent.com##.cdc-widget-global
+cloud.tencent.com##.cdc-layout__side
+cloud.tencent.com##.cdc-header__top
 
 36kr.com##.kr-plugin-comment
 36kr.com##.article-right-container
