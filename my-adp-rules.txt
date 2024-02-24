@@ -160,3 +160,5 @@ xueqiu.com##.private__domain__association__ad
 xueqiu.com##.lite-editor.lite-editor--comment
 
 
+zhihu.com##.css-2pfapc
+zhihu.com##.Card-section.AnswerInfo-favlists.css-10eusx7
