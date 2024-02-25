@@ -98,6 +98,12 @@ thepaper.cn##.index_content___Uhtm
 thepaper.cn##.index_wrapper__jYtRh
 thepaper.cn##.ant-comment-inner
 thepaper.cn###commentWrapper
+thepaper.cn##.index_nav__cbLaK
+thepaper.cn##.index_header__mmxqW
+thepaper.cn##.index_feedBack__KglnL
+thepaper.cn##.index_copyrightBox__3Hx3O
+thepaper.cn##.index_bottomBox__ioYJr
+thepaper.cn##.index_rightLayout__WAn4J.index_horizontal__3LRx3.undefined.index_light__ToaXt
 m.thepaper.cn##.header_header_flex__Y1Inn
 m.thepaper.cn###wap_header
 m.thepaper.cn##.header_header__5RcxZ
