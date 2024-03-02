@@ -47,7 +47,7 @@ sohu.com##.float-links
 sohu.com##.head-container
 sohu.com###main-header
 sohu.com##.error-head
-
+sohu.com###comment_area
 
 new.qq.com##.recommend-con
 new.qq.com###fix_wrap
