@@ -168,3 +168,8 @@ xueqiu.com##.lite-editor.lite-editor--comment
 
 zhihu.com##.css-2pfapc
 zhihu.com##.Card-section.AnswerInfo-favlists.css-10eusx7
+
+worldhistory.org##.right_1_column
+worldhistory.org###footer_contents
+worldhistory.org###recommended_list
+
