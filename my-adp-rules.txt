@@ -48,6 +48,8 @@ sohu.com##.head-container
 sohu.com###main-header
 sohu.com##.error-head
 sohu.com###comment_area
+sohu.com###god_bottom_banner
+sohu.com##.god-article-bottom
 
 new.qq.com##.recommend-con
 new.qq.com###fix_wrap
