@@ -132,6 +132,7 @@ m.thepaper.cn##div[style="margin-top: 0.8rem;"]
 163.com###js_N_nav
 163.com##.ntes-nav
 163.com##.post_wemedia
+||static.ws.126.net/f2e/www/index2014/images/sprite_dw2.png
 
 huxiu.com##.comment.article__comment
 huxiu.com###js-default-footer
