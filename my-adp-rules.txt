@@ -176,3 +176,5 @@ worldhistory.org##.right_1_column
 worldhistory.org###footer_contents
 worldhistory.org###recommended_list
 
+m.yicai.com###appdownload
+m.yicai.com##.m-float-appopen
