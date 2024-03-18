@@ -178,3 +178,13 @@ worldhistory.org###recommended_list
 
 m.yicai.com###appdownload
 m.yicai.com##.m-float-appopen
+m.yicai.com##.detail_rights.f-mt30
+m.yicai.com##.linkapp
+m.yicai.com###relatedlist
+m.yicai.com##.m-box.m-box-1
+m.yicai.com##.g-ft.f-fs16.f-tac
+m.yicai.com##.cmt-main
+m.yicai.com##.m-share-2.f-white
+m.yicai.com##.m-crumb.f-fs30.f-tac
+m.yicai.com##.cmt-title
+m.yicai.com##.m-feedcard-new.f-cb
