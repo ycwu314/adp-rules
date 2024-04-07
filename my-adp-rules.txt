@@ -202,6 +202,9 @@ finance.sina.cn##.hd_nav.ft_nav
 finance.sina.cn##.ft_cm
 finance.sina.cn##.fl_suspension_template.icon.cm_ani_out
 finance.sina.cn###goPageTop
+
+cnblogs.com###footer
+cnblogs.com##.footer-t1
 finance.sina.cn##.fl_suspension_link.icon_top
 finance.sina.cn###goPageHome
 finance.sina.cn##.fl_suspension_link.icon_index
