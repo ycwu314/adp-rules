@@ -209,7 +209,8 @@ finance.sina.cn##.fl_suspension_link.icon_top
 finance.sina.cn###goPageHome
 finance.sina.cn##.fl_suspension_link.icon_index
 finance.sina.cn##.article-editor
-
+cnblogs.com###comment_form
+cnblogs.com##.commentform
 
 blog.51cto.com##.inner
 blog.51cto.com##.Footer
