@@ -231,4 +231,4 @@ blog.51cto.com##.recommend-about
 ||s2.51cto.com/blog/activity/bride/DetailsBride.gif?x-oss-process=image/ignore-error,1
 
 
-/readmore.js
+^readmore.js
