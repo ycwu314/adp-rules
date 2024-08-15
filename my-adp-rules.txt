@@ -230,5 +230,7 @@ blog.51cto.com##.clearfix.common-sub-title
 blog.51cto.com##.recommend-about
 ||s2.51cto.com/blog/activity/bride/DetailsBride.gif?x-oss-process=image/ignore-error,1
 
+developer.aliyun.com##.inner
+developer.aliyun.com##.article-comment
 
 ^readmore.js
