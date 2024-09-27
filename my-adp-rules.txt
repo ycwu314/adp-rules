@@ -243,3 +243,6 @@ livevideostack.cn##.t-btns-box
 developer.aliyun.com##.article-comment
 
 ^readmore.js
+
+dbwu.tech##.giscus
+||dbwu.tech/images/wechat.png
