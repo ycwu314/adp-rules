@@ -230,17 +230,19 @@ blog.51cto.com##.clearfix.common-sub-title
 blog.51cto.com##.recommend-about
 ||s2.51cto.com/blog/activity/bride/DetailsBride.gif?x-oss-process=image/ignore-error,1
 
-
 developer.aliyun.com##.inner
-
+developer.aliyun.com##.article-comment
 
 livevideostack.cn##.page-footer
 ||livevideostack.cn/wp-content/uploads/2023/08/%E6%B7%B1%E5%9C%B3%E7%AB%99.png
 livevideostack.cn##.md-021
 livevideostack.cn##.t-btns-box
 
-
-developer.aliyun.com##.article-comment
+pixnashpython.pixnet.net##.modal-bg
+pixnashpython.pixnet.net##.modal-dialog
+yyurl.cc###verification-modal
+yunpan1.cc###verification-modal
+yyurl.cc##.modal-content.noise
 
 ^readmore.js
 
